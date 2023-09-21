@@ -1,8 +1,8 @@
 ### Hi there I'm Gabriel Edid! 👋
 
-🌱 I'm currently learning React Native and ADT and Algorithms in C++.
+🌱 I'm currently learning ADT and Algorithms in C++ and React Native.
 
-🤔 Get to know more about me at 
+🤔 Get to know more about me at https://gabrieledid28.wixsite.com/gabriel-edid
 
 💬 Ask me about... ANYTHING! I'm happy to share and learn from others.
 
