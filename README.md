@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there I'm Gabriel Edid! 👋
+
+🌱 I'm currently learning React Native and ADT and Algorithms in C++.
+
+🤔 Get to know more about me at 
+
+💬 Ask me about... ANYTHING! I'm happy to share and learn from others.
+
+📫 Reach me at gabrieledid28@gmail.com
+
+
 
 <!--
 **GabrielEdid/GabrielEdid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
