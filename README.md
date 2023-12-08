@@ -1,6 +1,8 @@
 ### Hi there I'm Gabriel Edid! 👋
 
-🌱 I'm currently learning ADT and Algorithms in C++ and React Native.
+🌱 I'm currently learning React and React Native.
+
+🔭 I’m currently working at STRIDE.
 
 🤔 Get to know more about me at https://gabrieledid28.wixsite.com/gabriel-edid
 
