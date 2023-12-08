@@ -4,7 +4,7 @@
 
 🔭 I’m currently working at STRIDE.
 
-🤔 Get to know more about me at https://gabrieledid28.wixsite.com/gabriel-edid
+🤔 Get to know more about me at [https://gabrieledid28.wixsite.com/gabriel-edid](https://gabrieledid28.wixsite.com/gabrieledid)
 
 💬 Ask me about... ANYTHING! I'm happy to share and learn from others.
 
