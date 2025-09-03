@@ -1,4 +1,4 @@
-<img width="284" height="48" alt="image" src="https://github.com/user-attachments/assets/e58f6184-c710-4ba9-9793-cef0ce2a96da" /># 💫 About Me:
+# 💫 About Me:
 
 🔭 I’m currently working at Stride.
 <br>
