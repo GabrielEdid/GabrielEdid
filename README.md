@@ -2,8 +2,10 @@
 
 🔭 I’m currently working at Stride.
 <br>
-<img src="https://static.wixstatic.com/media/c91d79_4722cf809a49418ca35ded5c7f27d80b~mv2.png/v1/crop/x_99,y_390,w_799,h_318/fill/w_122,h_48,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Logo-%20stride-variante001.png" width="50"/>
-<img src="https://static.wixstatic.com/media/c91d79_c45598a289fb4ca0bf752923ec601a5e~mv2.jpg/v1/crop/x_0,y_0,w_604,h_140/fill/w_284,h_48,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Screenshot%202024-01-31%20at%2015_38_edited_jp.jpg" width="110"/>
+<a href="https://stride.com.mx">
+  <img src="https://static.wixstatic.com/media/c91d79_4722cf809a49418ca35ded5c7f27d80b~mv2.png/v1/crop/x_99,y_390,w_799,h_318/fill/w_122,h_48,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Logo-%20stride-variante001.png" width="50"/>
+</a>
+<br>
 <br>👯 I’m looking to collaborate on exciting new projects, AI and mobile devolpment.<br>🌱 I'm currently learning React and React Native.<br>💬 Ask me about... ANYTHING! I'm happy to share and learn from others.<br>📫 Reach me at gabrieledid28@gmail.com<br>
 
 ## 🌐 Socials:
