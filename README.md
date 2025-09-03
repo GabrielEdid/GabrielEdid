@@ -1,6 +1,8 @@
 # 💫 About Me:
 
-🔭 I’m currently working at STRIDE.<br>👯 I’m looking to collaborate on exciting new projects, AI and mobile devolpment.<br>🌱 I'm currently learning React and React Native.<br>💬 Ask me about... ANYTHING! I'm happy to share and learn from others.<br>📫 Reach me at gabrieledid28@gmail.com<br>
+🔭 I’m currently working at Stride.
+[!Stride](https://static.wixstatic.com/media/c91d79_4722cf809a49418ca35ded5c7f27d80b~mv2.png/v1/crop/x_99,y_390,w_799,h_318/fill/w_122,h_48,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Logo-%20stride-variante001.png)]
+<br>👯 I’m looking to collaborate on exciting new projects, AI and mobile devolpment.<br>🌱 I'm currently learning React and React Native.<br>💬 Ask me about... ANYTHING! I'm happy to share and learn from others.<br>📫 Reach me at gabrieledid28@gmail.com<br>
 
 ## 🌐 Socials:
 
